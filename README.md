@@ -1,5 +1,5 @@
 # Exporatory-Data-Analysis-with-SQL
-In this project we perform an exploratory data analysis with SQL with a data downloaded from Real World Fake Data and we visualize it using Tableau
+In this project we perform an exploratory data analysis using SQL with a data downloaded from Real World Fake Data and we visualize it using Tableau
 You can download the data using this link: https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv
 
 The steps we followed include;
